@@ -16,7 +16,7 @@ This project focuses on recognizing handwritten text using Deep Learning techniq
 
 ## 🧠 Model
 Hugging Face Link:
-👉 https://huggingface.co/your-link
+👉 https://chaitanyapanjare-htr-pro.hf.space/?logs=container&__theme=system&deep_link=0ooRU0ydyyQ
 
 ## 📁 Project Structure
 Handwritten-Text-Recognition/
