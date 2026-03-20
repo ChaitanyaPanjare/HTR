@@ -13,6 +13,8 @@ This project focuses on recognizing handwritten text using Deep Learning techniq
 - Character Accuracy: 95.94%
 - Word Accuracy: 92.64%
 - Loss reduced from 11.83 → 0.16
+- ## 📸 Sample Predictions
+![Prediction](results/result_image1.png)
 
 ## 🧠 Model
 Hugging Face Link:
