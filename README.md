@@ -19,30 +19,28 @@ Hugging Face Link:
 👉 https://chaitanyapanjare-htr-pro.hf.space/?logs=container&__theme=system&deep_link=0ooRU0ydyyQ
 
 ## 📁 Project Structure
+
+```
 Handwritten-Text-Recognition/
 │
-├── README.md                 # Project overview and documentation
-├── requirements.txt          # Dependencies required to run the project
+├── README.md
+├── requirements.txt
 │
 ├── notebook/
-│   └── project.ipynb         # Jupyter Notebook (training, testing, evaluation)
+│   └── project.ipynb
 │
 ├── model/
-│   └──model_link.txt        # Hugging Face model link (instead of large files)
+│   └── model_link.txt
 │
 ├── results/
-│   ├── sample_predictions.png   # Example outputs
-│   ├── loss_graph.png           # Training loss graph
-│   └── accuracy_graph.png       # Accuracy visualization
-│
-├── data/ (optional)
-│   └── sample_data/          # Small sample dataset (not full dataset)
+│   └── sample_predictions.png
 │
 ├── report/
-│   └── project_report.pdf    # Final project documentation
+│   └── project_report.pdf
 │
 └── assets/
-    └── demo_images/          # Images used in README
+    └── demo_images/
+```
 
 ## ⚙️ Installation
 ```bash
